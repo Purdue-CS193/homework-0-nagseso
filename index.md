@@ -1,4 +1,3 @@
-
 # Nnagoziem Esomeju's First CS193 Homework
 ## My favorite things about CS 193
 
